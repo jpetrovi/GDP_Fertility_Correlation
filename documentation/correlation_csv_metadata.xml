@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>GDP & Fertility rate csv</dc:title>
+<dc:creator>Jovan Petrovic</dc:creator>
+<dc:subject>CSV file containing GDP & Fertility rate (2016)</dc:subject>
+<dc:description>This is a csv file that stores values of GDP per capita and fertility rate of 229 countries and regions for the year 2016</dc:description>
+<dc:date>17.04.2021</dc:date>
+<dc:type>CSV</dc:type>
+<dc:format>Comma Separated Values (csv)</dc:format>
+<dc:identifier>DOI: 10.5281/zenodo.4698406</dc:identifier>
+<dc:source>GDP per capita (current US$), World Bank</dc:source>
+<dc:source>Fertility rate, total (births per woman), World Bank</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>2016</dc:coverage>
+<dc:rights>Free access</dc:rights>
+
+</metadata>

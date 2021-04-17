@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>GDP & Fertility rate</dc:title>
+<dc:creator>Jovan Petrovic</dc:creator>
+<dc:subject>Correlation between GDP and fertility rate</dc:subject>
+<dc:description>This project shows the strong correlation between GDP per capita and fertility rate for the year 2016</dc:description>
+<dc:date>17.04.2021</dc:date>
+<dc:type>DataGeneration</dc:type>
+<dc:format>Jupyternotebook</dc:format>
+<dc:identifier>10.5281/zenodo.4698443</dc:identifier>
+<dc:source>GDP per capita (current US$)</dc:source>
+<dc:source>Fertility rate, total (births per woman)</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>2016</dc:coverage>
+<dc:rights>Free access</dc:rights>
+
+</metadata>
