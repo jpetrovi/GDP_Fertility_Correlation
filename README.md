@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4698443.svg)](https://doi.org/10.5281/zenodo.4698443)
+
 # Correlation between GDP per capita and fertility rate
 This repository stores code and relevant data for conducting an experiment of showing the correlation between GDP per capita and fertility rate(births per woman) for the year 2016.
 
